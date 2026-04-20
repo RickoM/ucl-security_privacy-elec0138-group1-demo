@@ -355,7 +355,7 @@ This project is for **educational purposes only** as part of UCL ELEC0138. All a
 
 ---
 
-## 👤 Author
+## 👥 Authors
 
-UCL MSc Telecommunications with Business — ELEC0138 Security and Privacy  
-Academic Year 2025/26
+**Group 1** — UCL MSc Telecommunications with Business  
+ELEC0138 Security and Privacy · Academic Year 2025/26
