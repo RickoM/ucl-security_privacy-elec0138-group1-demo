@@ -1,4 +1,4 @@
-# UCL ELEC0138 — 5G Security Lab
+# UCL ELEC0138: Security and Privacy 25/26 Assignment - Group 1 : 5G Security Lab
 **Security and Privacy · MSc Telecommunications with Business · UCL 2025/26**
 
 A fully working 5G Security demonstration lab built on **Open5GS** and **UERANSIM** running on **AWS EC2**. The demo shows real 5G registration, live attack simulations against the 5G core, and WAF mitigation — all controlled from a single HTML file in the browser.
@@ -351,11 +351,10 @@ curl http://localhost:9999/health
 
 ## ⚠️ Security Notice
 
-This project is for **educational purposes only** as part of UCL ELEC0138. All attacks are demonstrated in a controlled isolated environment against infrastructure we own and operate. Do not use these techniques against real networks.
+This project is for **educational purposes only** as part of UCL ELEC0138: Security and Privacy 25/26 Assignment. All attacks are demonstrated in a controlled isolated environment against infrastructure we own and operate. Do not use these techniques against real networks.
 
 ---
 
 ## 👥 Authors
 
-**Group 1** — UCL MSc Telecommunications with Business  
-ELEC0138 Security and Privacy · Academic Year 2025/26
+**Group 1** — UCL ELEC0138: Security and Privacy· Academic Year 2025/26
