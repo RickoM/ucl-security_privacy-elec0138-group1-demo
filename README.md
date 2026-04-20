@@ -1,5 +1,4 @@
 # UCL ELEC0138: Security and Privacy 25/26 Assignment - Group 1 : 5G Security Lab
-**Security and Privacy · MSc Telecommunications with Business · UCL 2025/26**
 
 A fully working 5G Security demonstration lab built on **Open5GS** and **UERANSIM** running on **AWS EC2**. The demo shows real 5G registration, live attack simulations against the 5G core, and WAF mitigation — all controlled from a single HTML file in the browser.
 
